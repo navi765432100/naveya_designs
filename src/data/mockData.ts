@@ -34,7 +34,7 @@ export interface PortfolioItem {
 export const designerInfo: DesignerInfo = {
   name: "Naveya Designs",
   title: "Haute Couture & Editorial Designer",
-  biographyShort: "An avant-garde force in modern haute couture, Naveya Designs creates garments that exist at the intersection of sculptural art and wearable poetry.",
+  biographyShort: "123An avant-garde force in modern haute couture, Naveya Designs creates garments that exist at the intersection of sculptural art and wearable poetry.",
   biographyLong: "Naveya Designs is an award-winning fashion designer based in Milan, known for her structural silhouettes, meticulous fabric manipulations, and commitment to sustainable luxury. Graduating from the Istituto Marangoni, she completed apprenticeships with leading Parisian fashion houses before launching her namesake atelier. Her designs challenge traditional garment construction by mixing organic raw textures with fluid silk drapes, resulting in pieces that evoke strength, vulnerability, and timeless elegance.",
   philosophy: "Fashion is not merely about dressing the body; it is a sculptural architecture for the soul. I design for those who carry their clothing as a form of non-verbal poetry, embracing both structural armor and fluid sensuality.",
   portraitUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1200",
